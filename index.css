@@ -1,0 +1,42 @@
+body {
+    background: darkgreen;
+
+
+}
+
+.container{
+
+padding-bottom: 15px;
+
+}
+@font-face {
+    font-family: AveriaSerifLibre;
+    src: url("./fonts/AveriaSerifLibre-Bold.ttf");
+}
+.table{
+    opacity: .7;
+    padding: 3px 5px 4px 5px;
+    font-family: AveriaSerifLibre;
+    border: 1px solid #000;
+    margin: 0 auto;
+    background: lightgray;
+
+}
+
+.div-table{
+    max-width: 1300px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+
+.title{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-align: center;
+    font-weight: 900;
+    font-size: 42px;
+    font-style: italic;
+}
+#title{
+
+}
